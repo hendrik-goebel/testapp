@@ -1,0 +1,15 @@
+{
+    "name": "Test App",
+    "description": "Test App",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "Hendrik"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
